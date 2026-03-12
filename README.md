@@ -4,7 +4,7 @@ A modern and responsive Coffee Shop Website built using React.js that showcases 
 
 🚀 Live Demo
 
-🔗 Repository: https://github.com/Mollika39/brew-haven-coffee-shop
+🔗 Repository: https://github.com/Mollika39/brew-haven-coffee
 
 (Replace with your actual repo link if different)
 
